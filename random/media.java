@@ -1,3 +1,4 @@
+package random;
 import java.util.Scanner;
 public class media {
     public static void name(String[] args) {
